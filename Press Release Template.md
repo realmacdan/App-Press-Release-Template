@@ -1,4 +1,4 @@
-# [AppName] Now Available for iPhone® and iPod touch®.
+# [AppName] for iPhone®, helps you do that aspirational thing.
 
 [City], [Country] — April 1st 1976 —  [CompanyName] today released [AppName] for for iPhone® and iPod touch®. [AppName] does some amazing things, try and distil what your app does in 2-5 sentences. Mention a few features and how it can benefit the user. Keep it simple and honest, this is a formal press release not an advert. 
 
