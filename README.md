@@ -11,5 +11,5 @@ Chages and improvements are most welcome :)
 Please contact Dan Counsell regarding this project, dan@realmacsoftware.com
 
 ## Credits
-Dan Counsell, @dancounsell
-Nik Fletcher, @nikf
+- Dan Counsell, @dancounsell
+- Nik Fletcher, @nikf
