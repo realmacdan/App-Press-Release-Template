@@ -1,6 +1,6 @@
 # [AppName] for iPhone®, helps you do that aspirational thing.
 
-[City], [Country] — April 1st 1976 —  [CompanyName] today released [AppName] for for iPhone® and iPod touch®. [AppName] does some amazing things, try and distil what your app does in 2-5 sentences. Mention a few features and how it can benefit the user. Keep it simple and honest, this is a formal press release not an advert. 
+[City], [Country] — April 1st 1976 —  [CompanyName] today released [AppName] for iPhone® and iPod touch®. [AppName] does some amazing things, try and distil what your app does in 2-5 sentences. Mention a few features and how it can benefit the user. Keep it simple and honest, this is a formal press release not an advert. 
 
 Another short paragraph about your app, time to sum it up here. This is the perfect place for any additional notable features. Just remember to be clear on what your app does and why it's better than other apps in its category.
 
